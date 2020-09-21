@@ -309,6 +309,7 @@ textarea {
 
 .article-detail .image-wrap img{
     width: 100%;
+    height: auto;
 }
 
 .article-detail .subheader {
