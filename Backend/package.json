@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Api RESTful del máster en Frameworks para JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oremorsiri/Curso-frameworks-JS.git"
+  },
+  "author": "Iris Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oremorsiri/Curso-frameworks-JS/issues"
+  },
+  "homepage": "https://github.com/oremorsiri/Curso-frameworks-JS#readme"
+}
